@@ -1,27 +1,13 @@
 ---
-title: "IM"
+title: "Technology"
 author: "Jennifer M. Valdez"
 format: html
 editor: visual
+number-sections: true
 ---
 
-## Quarto
+# Introduction
 
-Quarto enables you to weave together content and executable code into a finished document. To learn more about Quarto see <https://quarto.org>.
+Technology is a set of notions and knowledge used to achieve a precise objective, which leads to the solution of a specific problem of the individual or the satisfaction of some of their needs. It is an extremely broad concept that can cover a huge variety of aspects that can range from electronics to art.
 
-## Running Code
-
-When you click the **Render** button a document will be generated that includes both content and the output of embedded code. You can embed code like this:
-
-```{r}
-1 + 1
-```
-
-You can add options to executable code like this
-
-```{r}
-#| echo: false
-2 * 2
-```
-
-The `echo: false` option disables the printing of code (only output is displayed).
+![](IMAGES/TECH.jpg){fig-align="center"}
