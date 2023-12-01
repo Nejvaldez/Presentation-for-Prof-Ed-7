@@ -1,5 +1,5 @@
 ---
-title: "Technology"
+title: "Frieze Pattern"
 author: "Jennifer M. Valdez"
 format: html
 editor: visual
@@ -7,7 +7,5 @@ number-sections: true
 ---
 
 # Introduction
+A $\textbf{frieze pattern or border pattern}$ is a pattern that extends to the left and right in such a way that the pattern can be mapped onto itself by a horizontal translation. In addition to being mapped onto itself by a horizontal translation, some frieze patterns can be mapped onto themselves by other transformations.
 
-Technology is a set of notions and knowledge used to achieve a precise objective, which leads to the solution of a specific problem of the individual or the satisfaction of some of their needs. It is an extremely broad concept that can cover a huge variety of aspects that can range from electronics to art.
-
-![](IMAGES/TECH.jpg){fig-align="center"}
