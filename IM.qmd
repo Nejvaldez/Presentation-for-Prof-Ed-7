@@ -7,5 +7,26 @@ number-sections: true
 ---
 
 # Introduction
+
 A $\textbf{frieze pattern or border pattern}$ is a pattern that extends to the left and right in such a way that the pattern can be mapped onto itself by a horizontal translation. In addition to being mapped onto itself by a horizontal translation, some frieze patterns can be mapped onto themselves by other transformations.
+
+$\textbf{The seven frieze groups}$
+
+1.  p1: T (translation only, in the horizontal direction)
+
+2.  p1m1: TV (translation and vertical line reflection)
+
+3.  p11m: THG (translation, horizontal line reflection, and glide reflection)
+
+4.  p11g: TG (translation and glide reflection)
+
+5.  p2: TR (translation and 180° rotation)
+
+6.  p2mg: TRVG (translation, 180° rotation, vertical line reflection, and glide reflection)
+
+7.  p2mm: TRHVG (translation, 180° rotation, horizontal line reflection, vertical line reflection, and glide reflection)
+
+![](IMAGES/frieze.png){fig-align="center"}
+
+
 
